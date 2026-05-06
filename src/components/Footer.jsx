@@ -39,10 +39,10 @@ export default function Footer() {
         {/* Contact */}
         <div>
           <h4>Contact</h4>
-          <p>WhatsApp: 0765166385</p>
+          <p>WhatsApp: 074 623 7153</p>
           <p>
             Email:{" "}
-            <a href="mailto:admiraltechsolutions@gmail.com">
+            <a href=" info@nkonkegroup.co.za">
               admiraltechsolutions@gmail.com
             </a>
           </p>
