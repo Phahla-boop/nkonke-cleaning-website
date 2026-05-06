@@ -43,7 +43,7 @@ export default function Footer() {
           <p>
             Email:{" "}
             <a href=" info@nkonkegroup.co.za">
-              admiraltechsolutions@gmail.com
+               info@nkonkegroup.co.za
             </a>
           </p>
         </div>
