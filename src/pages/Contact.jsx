@@ -2,7 +2,7 @@ import { useForm, ValidationError } from "@formspree/react";
 import { getContact } from "../utils/storage";
 
 export default function Contact() {
-  const [state, handleSubmit] = useForm("mqadgpjp");
+  const [state, handleSubmit] = useForm("mgodlevj");
   const contact = getContact();
 
   if (state.succeeded) {
